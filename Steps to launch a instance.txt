@@ -1,0 +1,8 @@
+Steps to create a Instance
+=>Login to aws account and set region-Mumbai
+=>Provide instance name
+=>Select amazon machine image(AMI) as Amazon Linux 2
+=>Select instance type as t2.micro
+=>Select key-pair or create a key-pair
+=>Then Launch the instance
+ 
